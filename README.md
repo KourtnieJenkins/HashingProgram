@@ -1,10 +1,10 @@
 # HashingProgram
-*Implementation of hashing techniques to store a set of values from a file.*
+*Uses Java to implementat hashing techniques to store a set of values from a file.*
 
 COP3530: Data Structures -- Assignment #6
 
 **Assignment Overview:**
-This program uses Java to demonstrate hashing techniques such as Horner's polynomial, linear probing, and quadratic probing.
+This program demonstrates hashing techniques such as Horner's polynomial, linear probing, and quadratic probing.
 
 **Assignment Details:**
 For this program you are going to read three files of strings (using only lowercase alpha chars, each with no blanks, and each
