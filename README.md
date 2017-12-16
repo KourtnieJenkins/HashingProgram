@@ -21,7 +21,9 @@ The files will have been constructed using Notepad on a Windows machine.
 Each string should be thought of as a polynomial, such as
 
 >'z'*26^5 + 'y'*26^4 + 'x'* 26^3 + 'a'*26^2 + 'b'*26^1 +'c'*26^0
+
 >'a'*26^2 + 'c'*26^1 + 'e'*26^0
+
 >etc
 
 where 'z' is the ASCII int associated with it (similarly) for all alpha chars.
